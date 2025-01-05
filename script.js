@@ -12,7 +12,7 @@ window.onscroll = () => {
 }
 
 const typed = new Typed('.multiple-text', {
-  strings: ['Virtual Assitant', 'Writer Editor', 'Copy Editor', 'Content Creator'],
+  strings: ['Virtual Assitant', 'Writer', 'Copy Editor', 'Content Creator'],
   typeSpeed: 60,
   backSpeed: 60,
   backDelay: 1200,
